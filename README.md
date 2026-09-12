@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AL NextGen Toastmasters — Personal VPPR Flyer Generator
 
 A small Streamlit + Pillow application for generating the weekly club flyer from structured meeting details and member photos.
@@ -77,7 +76,3 @@ If they are not present, the app falls back to DejaVu Sans.
 5. Upload three photos.
 6. Click Generate Flyer.
 7. Download PNG/PDF.
-=======
-# toastmasters-gen-PR-flyer
-PR - Meeting Flyers Generator
->>>>>>> 281d292f5a784e957b4160e1f965914c68f8760f
